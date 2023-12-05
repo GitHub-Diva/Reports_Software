@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<breakpoints>
+  <breakpoint>
+    <status>Y</status>
+    <file>Logical/Program/Main.c</file>
+    <position>21</position>
+    <condition></condition>
+    <instance></instance>
+    <program>Program</program>
+  </breakpoint>
+</breakpoints>

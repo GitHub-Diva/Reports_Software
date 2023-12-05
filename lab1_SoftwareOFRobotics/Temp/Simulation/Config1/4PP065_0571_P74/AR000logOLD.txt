@@ -1,0 +1,21 @@
+Fri Nov 17 13:53:41 2023
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Fri Nov 17 13:53:41 2023
+No ARsim registration found!
+
+Fri Nov 17 13:53:41 2023
+InstanceName: 01da194453a7fe40
+
+Fri Nov 17 13:53:41 2023
+WorkingDirectory: C:\Users\admin\Documents\SW\KRBO-01-20\lab1_SoftwareOFRobotics\Temp\Simulation\Config1\4PP065_0571_P74\
+
+Fri Nov 17 13:53:41 2023
+COMMAND_COLDSTART
+
+Fri Nov 17 13:53:43 2023
+Version: D4.52
+
+Fri Nov 17 13:56:21 2023
+COMMAND_TERMINATE
+
